@@ -1,3 +1,4 @@
+
 ### Olá eu sou o Victor Nunes Moreira 👋🏻
 
 #### caso queira entrar em Contato comigo:
@@ -14,4 +15,8 @@
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-</div>
+</div> <br/>
+
+### Sou estudante da Faculdade de Tecnologia SPTech(São Paulo Tech School), estou atualmente no 1 semestre de ADS(Analise e Desenvolvimento de Sistemas).
+
+#### victor.moreira@sptech.school
