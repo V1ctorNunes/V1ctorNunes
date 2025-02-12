@@ -20,7 +20,7 @@
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div> 
 
-### Sou estudante da Faculdade de Tecnologia SPTech(São Paulo Tech School), estou atualmente no 3 semestre de ADS(Análise e Desenvolvimento de Sistemas).
+### Sou estudante da Faculdade de Tecnologia SPTech(São Paulo Tech School), estou atualmente no 4 semestre de ADS(Análise e Desenvolvimento de Sistemas).
 
 ### Atualmente estou atuando na empresa ⬇️
 [<img align="left" height="88px" width="90px" alt="Warpnet" src="https://media.licdn.com/dms/image/D4D0BAQF38uJRF4pfog/company-logo_200_200/0/1704829713759/ercic_logo?e=1726704000&v=beta&t=VDL2V0o152aa5utIKpvYWtD79hqO3nkOTB6EQuXOCQk" style="margin-right: 10px;">]()
